@@ -6,5 +6,5 @@ muscle cars
 tuner cars
 tuner cars
 sports cars
-sports cars
+ricer are garbage
 
