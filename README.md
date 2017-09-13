@@ -14,4 +14,5 @@ toyota
 dodge
 lexus
 ram
+subaru
 
